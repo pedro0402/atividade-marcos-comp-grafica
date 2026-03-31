@@ -28,8 +28,8 @@ Abra o arquivo `index.html` em qualquer navegador moderno — nenhuma instalaç�
 
 1. Faça o download ou clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cubo-3d-threejs.git
-   cd cubo-3d-threejs
+   git clone https://github.com/pedro0402/atividade-marcos-comp-grafica.git
+   cd atividade-marcos-comp-grafica
    ```
 
 2. Abra o arquivo `index.html` diretamente no seu navegador (duplo clique ou arraste para a janela).
